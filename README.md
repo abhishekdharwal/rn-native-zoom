@@ -225,3 +225,4 @@ In this folder, you have the main objects to apply the composition architecture.
 
 To keep the structure, extract the styles from the main file and place it in a {namefile.styles.js} do the same for the set of tests needed for each screen with the file {namefile.test.js}
 # rn-native-zoom
+# rn-native-zoom
